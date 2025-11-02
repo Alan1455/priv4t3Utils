@@ -59,6 +59,6 @@ priv4t3Utils/
 ---
 
 ![License](https://img.shields.io/badge/License-PR--Use--Only-red)
-![Private](https://img.shields.io/badge/Repository-Private-black)
+![Public](https://img.shields.io/badge/Repository-Public-green)
 ![Language](https://img.shields.io/badge/Python-100%25-blue)
 
