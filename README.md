@@ -9,11 +9,24 @@
 ## ⚙️ Structure
 ```text
 priv4t3Utils/
-├── cogs/               # 模組化擴充功能
-├── data/               # 測試或執行所需資料
-├── identify.py         # 用戶辨識或環境檢測
-├── main.py             # 主程式進入點
-└── requirements.txt    # 依賴套件
+├── cogs/                     # 模組化擴充功能
+│   ├── __init__.py
+│   ├── activity.py           # 活動監控相關功能
+│   ├── count.py              # 計數器與統計模組
+│   ├── dynamicVC.py          # 動態語音頻道控制
+│   ├── event.py              # 事件處理模組
+│   ├── help.py               # 指令說明模組
+│   ├── main.py               # 主功能掛載點
+│   ├── music.py              # 音樂播放模組
+│   └── voiceTracker.py       # 語音追蹤模組
+│
+├── data/                     # 測試或執行所需資料
+├── identify.py               # 用戶辨識或環境檢測
+├── main.py                   # 主程式進入點
+├── requirements.txt          # 依賴套件
+├── LICENSE                   # 授權條款
+└── README.md                 # 專案說明
+```
 
 ---
 
