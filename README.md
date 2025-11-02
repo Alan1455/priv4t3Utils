@@ -1,3 +1,51 @@
-## License
-本專案僅限用於向 [Alan1455/priv4t3Utils](https://github.com/Alan1455/priv4t3Utils) 提交 PR，
-禁止用於任何商業、私人或外部專案用途。
+# 📘 priv4t3Utils
+
+## 🧩 Overview  
+`priv4t3Utils` 是一個私有實用模組集合，用於整合、測試或輔助 Alan1455 的其他專案。  
+此專案內容包含多項內部工具與邏輯設計，**不對外公開、不得用於任何非授權環境。**
+
+---
+
+## ⚙️ Structure
+```text
+priv4t3Utils/
+├── cogs/               # 模組化擴充功能
+├── data/               # 測試或執行所需資料
+├── identify.py         # 用戶辨識或環境檢測
+├── main.py             # 主程式進入點
+└── requirements.txt    # 依賴套件
+
+---
+
+## 🚀 Usage (Authorized Only)
+本專案僅供：
+- 在 [Alan1455/priv4t3Utils](https://github.com/Alan1455/priv4t3Utils) 的 **Pull Request** 中使用；
+- 進行功能貢獻、審查或測試。
+
+任何形式的：
+- 商業使用  
+- 私人複製、修改  
+- 重新散佈、整合進他人專案  
+
+皆屬**嚴重違反授權條款**。
+
+---
+
+## 🔒 License  
+本專案採用 **Alan1455 Private Repository License (PR-Use Only)**  
+> 僅限於向本倉庫提交 PR 時使用，嚴禁用於其他商業或個人用途。  
+
+完整條款請見 [LICENSE](./LICENSE)
+
+---
+
+## 🧠 Author  
+**Alan1455**  
+🔗 GitHub: [@Alan1455](https://github.com/Alan1455)
+
+---
+
+![License](https://img.shields.io/badge/License-PR--Use--Only-red)
+![Private](https://img.shields.io/badge/Repository-Private-black)
+![Language](https://img.shields.io/badge/Python-100%25-blue)
+
