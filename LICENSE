@@ -1,9 +1,32 @@
+版權所有 © 2025 Alan1455
+保留一切權利。
+
+本軟體及其相關檔案（以下稱「軟體」）僅供使用於 向原始倉庫提交 Pull Request（PR）進行審查、貢獻或測試之目的：
+https://github.com/Alan1455/priv4t3Utils
+
+除非作者書面授權，否則任何其他用途（包括但不限於商業、私人、學術或衍生專案）皆 嚴格禁止。
+
+您 不得：
+1.重新散佈或再授權本軟體；
+2.在個人或第三方倉庫中使用；
+3.將本軟體整合進商業或非商業應用；
+4.在授權 PR 之外修改或改作。
+
+違反者可能面臨法律行動，或永久撤銷倉庫存取權。
+
+
 Copyright (c) 2025 Alan1455
+All rights reserved.
 
-This software and associated documentation files (the "Software") may only be used
-within pull requests (PRs) directed to the original repository 
-(https://github.com/Alan1455/priv4t3Utils) for review, collaboration, or contribution purposes.
+This software and its associated files (the “Software”) are provided exclusively for the purpose of reviewing, contributing, or testing within Pull Requests (PRs) directed to the original repository:
+https://github.com/Alan1455/priv4t3Utils
 
-Any other use, including but not limited to commercial use, redistribution,
-modification outside PR contexts, or personal projects, is strictly prohibited
-without prior written permission from the author.
+Any other use — including but not limited to commercial, private, academic, or derivative projects — is strictly prohibited unless express written permission is granted by the author.
+
+You may not:
+1.Redistribute or sublicense the Software.
+2.Use it in your own or third-party repositories.
+3.Incorporate it into commercial or non-commercial applications.
+4.Modify or adapt it outside of authorized PR contributions.
+
+Violation of these terms may result in legal action or permanent revocation of repository access.
