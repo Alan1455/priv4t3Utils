@@ -52,7 +52,7 @@ intents.auto_moderation = True
 intents.webhooks = True
 intents.invites = True
 
-prefix = commands.when_mentioned_or(".")
+prefix = commands.when_mentioned_or("!")
 
 class T3mpur4Utils(commands.Bot):
     def __init__(self, *, intents: discord.Intents):
